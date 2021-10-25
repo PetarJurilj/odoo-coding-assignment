@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <template id="covid_thank_you" name="Covid19 Thank You">
+        <t t-call="web.frontend_layout">
+            Thank you
+        </t>
+    </template>
+</odoo>
